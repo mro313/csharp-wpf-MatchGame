@@ -40,7 +40,7 @@ namespace MatchGame
                 "🐙", "🐙",
             };
 
-            // new method to get a random number
+            // new method to get a random number!
             Random random = new Random();
 
             // foreach loop runs for every textBlock in the mainGrid
@@ -57,6 +57,8 @@ namespace MatchGame
 
                 // removes emoji from list so cannot be used again, for next iteration of loop
                 animalEmoji.RemoveAt(index);
+
+                //this is new code, but this is just a test.
             }
         }
     }
