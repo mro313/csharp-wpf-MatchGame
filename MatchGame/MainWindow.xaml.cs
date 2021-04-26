@@ -19,10 +19,7 @@ namespace MatchGame
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    /// 
-
-
-    // testing this, pushing to master
+   
     public partial class MainWindow : Window
     {
         //added this for the timer
